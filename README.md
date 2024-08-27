@@ -10,6 +10,7 @@
 -->
 
 # ✨ Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hil00137&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 ![revomin's github stats](https://github-readme-stats.vercel.app/api?username=hil00137&show=reviews,prs_merged,prs_merged_percentage&hide=stars&show_icons=true)
 
 # 🌱 Skills
