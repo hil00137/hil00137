@@ -31,7 +31,7 @@ My work includes building **coupon-related services** and **event participation 
 
 ## Front
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)000000000000                                                                                                                                                                                                                                                                                                                                                                                                                 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                              
 
 ## DB
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
