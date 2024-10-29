@@ -17,6 +17,7 @@ I have extensive experience in **developing platforms** that bring value to comp
 My work includes building **coupon-related services** and **event participation services**, where I have gained hands-on experience in handling high-volume data efficiently.
 
 # ⚡ Work experience
+- Secta9ine (2024.10 ~ NOW, Developer)
 - Qoo10 Tech (2023.06 ~ 2024.08, Senior Engineer)
 - Wemakeprice (2022.05 ~ 2023.06, Senior Engineer)
 - Etoos Edu (2020.07 ~ 2022.05, Developer)
