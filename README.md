@@ -23,6 +23,9 @@ My work includes building **coupon-related services** and **event participation 
 - Etoos Edu (2020.07 ~ 2022.05, Developer)
 - humusOn (2019.01 ~ 2020.05, Developer)
 
+# 🧩 Extracurricular Activities
+- 2024 SW Meister High Schools Joint Hackathon (Four Schools) (2024.10.29 ~ 10.31, Mentor) ![video](https://youtu.be/vqVTwgDe-E4?si=L5A1TUatEVCHOMTR)
+
 # 🌱 Skills
 ## Backend
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
