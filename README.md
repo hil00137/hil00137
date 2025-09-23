@@ -24,7 +24,7 @@ My work includes building **coupon-related services** and **event participation 
 - humusOn (2019.01 ~ 2020.05, Developer)
 
 # 🧩 Extracurricular Activities
-- 2024 SW Meister High Schools Joint Hackathon (Four Schools) (2024.10.29 ~ 10.31, Mentor) ![video](https://youtu.be/vqVTwgDe-E4?si=L5A1TUatEVCHOMTR)
+- 2024 SW Meister High Schools Joint Hackathon (Four Schools) (2024.10.29 ~ 10.31, Mentor) [video](https://youtu.be/vqVTwgDe-E4?si=L5A1TUatEVCHOMTR)
 
 # 🌱 Skills
 ## Backend
