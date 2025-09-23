@@ -24,6 +24,7 @@ My work includes building **coupon-related services** and **event participation 
 - humusOn (2019.01 ~ 2020.05, Developer)
 
 # 🧩 Extracurricular Activities
+- Kangwon National University Startup AI+X Hackathon “Giant 2025” (2025.09.19 ~ 09.20, Mentor) [Registration Page](https://edu.ggumeasy.com/?pn=product.view&cuid=&pcode=L5188-T1104-N5434)
 - 2024 SW Meister High Schools Joint Hackathon (Four Schools) (2024.10.29 ~ 10.31, Mentor) [video](https://youtu.be/vqVTwgDe-E4?si=L5A1TUatEVCHOMTR)
 
 # 🌱 Skills
